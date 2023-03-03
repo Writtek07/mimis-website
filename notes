@@ -1,0 +1,5 @@
+#start localhost
+1.Copy the project to below path:-
+	sudo cp -R Users/writtek/Desktop/MimisWebapp-master /Library/WebServer/Documents
+2. start server on the path --> sudo apachectl start (Use sudo apachectl stop to stop the server)
+3. Visit http://localhost/MimisWebapp/index.html on browser
